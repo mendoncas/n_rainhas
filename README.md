@@ -1,0 +1,1 @@
+Solução do problema das N rainhas utilizando o algoritmo de subida da encosta com reinício aleatório
